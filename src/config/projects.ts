@@ -102,27 +102,6 @@ export const projects: Project[] = [
     "mockup": "wordpress"
   },
   {
-    "slug": "biomiq-skincare",
-    "name": "Biomiq Skincare",
-    "category": "Shopify",
-    "stack": [
-      "Shopify",
-      "Klaviyo",
-      "Metaobjects",
-      "Yotpo"
-    ],
-    "description": "Gated Inner Circle and Retailer portals on Shopify driven by Klaviyo customer data and metaobjects, with Yotpo reviews.",
-    "role": "Developer",
-    "image": "/projects/biomiq.jpg",
-    "imageAlt": "Homepage of the Biomiq Skincare Shopify store",
-    "url": "https://biomiqskincare.com/",
-    "skills": [
-      "shopify",
-      "backend"
-    ],
-    "mockup": "shop"
-  },
-  {
     "slug": "enwolt-bikes",
     "name": "Enwolt Bikes",
     "category": "Shopify",
@@ -185,28 +164,6 @@ export const projects: Project[] = [
     "url": "https://thankfulgreetings.com/",
     "skills": [
       "shopify"
-    ],
-    "mockup": "shop"
-  },
-  {
-    "slug": "dirtyboy",
-    "name": "DirtyBoy",
-    "category": "Shopify",
-    "stack": [
-      "Shopify",
-      "Liquid",
-      "Viral Loops",
-      "Klaviyo",
-      "Google Apps Script"
-    ],
-    "description": "Shopify pre-launch teaser with a custom Liquid section, a Viral Loops referral system, Klaviyo welcome and referral flows, and a Google Apps Script backend serving a live signup counter.",
-    "role": "Developer",
-    "image": "/projects/dirtyboy.jpg",
-    "imageAlt": "Homepage of the DirtyBoy Shopify teaser site",
-    "url": "https://whosadirtyboy.com/",
-    "skills": [
-      "shopify",
-      "backend"
     ],
     "mockup": "shop"
   },
